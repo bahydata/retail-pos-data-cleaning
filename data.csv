@@ -1,0 +1,339 @@
+receipt_no,sale_date,customer_name,contact_no,branch,item_desc,qty,unitPrice,total_amt,pay_status,amt_paid,source_note
+R10000,2025/06/13, SARA MOHAMED ,01089254563,DOWNTOWN,Coffee 200g,2,110,220.00,paid,EGP 220.00,Dashboard | first-time buyer
+R10001,25-Jan-2025,Salma Nabil,01084093639, Heliopolis ,Orange Juice,2 pcs,38,76.00,paid,76.00,CRM export | new customer
+R10002,2025/01/19,Nadia Tamer,01153524491,NASR CITY,Chips,5,22,110.00,Cash,110.00,POS | promo applied
+R10003,30-05-2025,Mostafa Samir,01030514014,Heliopolis,Rice 1kg,2,48,96.00,COMPLETED,48.00,Manual Excel | new customer
+R10004,"Jun 10, 2025",Yara Atef,01275579548, Madinaty ,Orange Juice,2,$38, 76.00 ,Paid,76.00,POS | vip
+R10005,2025-06-26, AYA FATHY ,01140158366,HELIOPOLIS, Soap Bar ,5 pcs,18,90.00,pending,90.00,pos | checked by cashier
+R10006,02-May-2025,Dina Kamal,01097705310,Nasr City,Bread,1,,12.00,Partial,12.00,POS / manual fix
+R10007,2025-02-12,Dina Kamal,01545594951,Maadi,Yogurt Cup,2,16,32.00,Partial,16,dashboard | legacy import
+R10008,"Jun 02, 2025",Omar Said,01066267415,Nasr City,Soap Bar,1,18, 18.00 ,Paid,18.00,POS / manual fix
+R10009,2025/03/04,Salma Nabil,01299038526,Heliopolis,Eggs 12pc,3,72,216.00,PAID,216.00,pos | walk-in
+R10010,"Feb 11, 2025",Mr. Eslam Fouad / VIP,01059555330,Madinaty,Coffee 200g,3,110.00,330.00,COMPLETED,330.00,CRM+Manual | quick sale
+R10011,15-02-2025,Hassan Ibrahim,01061343880,Maadi, Shampoo ,5,125,625.00,COMPLETED,468.75,POS | manual adjustment
+R10012,08-Mar-2025,Khaled Youssef,01061 700055,Madinaty,Pasta 500g,1,24,25.20,Card,25.20,CRM+Manual | promo applied
+R10013,"May 22, 2025",Nour Adel,01264502486,Nasr City,Soap Bar,5,18,90.00,COMPLETED,90.00,POS / Excel | first-time buyer
+R10014,21-Mar-2025,Hana Mahmoud,01594525678,Nasr City,Eggs 12pc,1,72,75.60,paid,75.60,CRM+Manual | promo applied
+R10015,16-05-2025,Dr. Laila Mansour,01531361812,Madinaty,Detergent, 3 ,95,285.00,Partial,285.00,dashboard | manual adjustment
+R10016,26-03-2025,Laila Mansour,01574019136,Maadi,Soap Bar,1,18,18.00,Paid,18.00,POS | checked by cashier
+R10017,17/05/2025,Ahmed Ali,01534391257,Maadi,Orange Juice,4,EGP 38,152.00,Partial,152.00,POS | legacy import
+R10018,06-Jan-2025,Nadia Tamer,01259512272,Nasr City, Rice 1kg ,2,48,96.00,COMPLETED,96.00,Manual Excel | loyalty customer
+R10019,2025-05-25,Mona Hassan,01575793759,Heliopolis,Chips,3,22,66.00,Card,66.00,pos | online order
+R10020,04/03/2025,Eslam Fouad,01538470244, Madinaty , Orange Juice ,5,38,190.00,Card,190.00,crm | legacy import
+R10021,05/29/25,Salma Nabil,01546361787,Maadi,Chips, 4 ,22,88.00,Card,79.20,CRM export | legacy import
+R10022,2025-02-02,Mohamed Tarek,01087049595,Downtown, Milk 1L ,4,32,128.00,pending,115.20,Excel import
+R10023,02/27/25,Amr Adel,01091823275,Maadi,Yogurt Cup,3,16,48.00,Partial,48.00,pos | promo applied
+R10024,2025-02-20,Dina Kamal,01151286958,Downtown,Chips,2,22,44.00,COMPLETED,22.00,CRM+Manual | loyalty customer
+R10025,22/06/2025,Mohamed Tarek,01595199362,Madinaty,Milk 1L,2,32,EGP 64.00,Cash,64.00,dashboard | vip
+R10026,2025/05/19,Eslam Fouad,01516927215,Maadi,Milk 1L,2,32,64.00,pending,,manual_sheet | legacy import
+R10027,"Mar 11, 2025",Dina Kamal,01119369750,MAADI,Yogurt Cup,2,16,32.00,completed,32.00,CRM export | online order
+R10028,03-Mar-2025,Hussein Gamal,01176481885,Maadi,Rice 1kg,3,48,158.40,Partial,158.40,POS | walk-in
+R10029,"May 17, 2025",Mostafa Samir,01041510328,Heliopolis,Tea 100g,0,55,275.00,Paid,275.00,CRM export | promo applied
+R10030,08-Apr-2025,Nadia Tamer,01299501846,Nasr City,Yogurt Cup,4,16,64.00,Cash,64.00,POS | manual adjustment
+R10031,"Jun 18, 2025",Mostafa Samir,01548412328,Heliopolis,Milk 1L,4,32, 128.00 ,Paid,128.00,CRM - manual
+R10032,04-04-2025,Amr Adel,01255461591,Madinaty,Biscuits,2,27,EGP 54.00,pending,54.00,pos | manual adjustment
+R10033,2025/03/01,Reem Hany,01550559278, Downtown ,Orange Juice,4,38,152.00,paid,152.00,Dashboard | vip
+R10034,2025-03-13,Mona Hassan,01283076970,Heliopolis,Rice 1kg,0,48,144.00,Card,144.00,POS / manual fix
+R10035,2025-02-07,Nadia Tamer,01027690330, Downtown ,Pasta 500g,2,24,48.00,COMPLETED,EGP 48.00,manual sheet
+R10036,05/03/25,Mostafa Samir,01118815720,Maadi,Tea 100g,1,$55,55.00,paid,27.50,Manual Excel | legacy import
+R10037,2025/03/07,Salma Nabil,01227463800,Nasr City,Tea 100g,3,55,156.75,paid,156.75,POS / Excel | first-time buyer
+R10038,"Apr 05, 2025",Sara Mohamed,01213886030,HELIOPOLIS,Orange Juice,2,38,76.00,Paid,68.40,Manual Excel | legacy import
+R10039,14-Jan-2025,Nour Adel,01565590800,Nasr City,Shampoo, 4 ,125,380.00,Partial,475.00,CRM export | promo applied
+R10040,08-04-2025,Laila Mansour,01068548403,Nasr City, Chips , 4 ,22,88.00,Partial,44.00,POS | manual adjustment
+R10041,"Jan 21, 2025",Mostafa Samir,01081216573,Heliopolis,Coffee 200g,2,110,220.00,paid,220.00,POS / Excel | promo applied
+R10042,25-May-2025,Nadia Tamer,01246866075,HELIOPOLIS,Toothpaste,5,42.00,210.00,pending,210.00,CRM+Manual | first-time buyer
+R10043,2025-05-02,Amr Adel,01168754920,Nasr City,Milk 1L,3,EGP 32,100.80,COMPLETED,50.40,dashboard | quick sale
+R10044,06/19/25,Nour Adel,01596368203,Heliopolis,Pasta 500g,5,24,120.00,paid,120.00,crm | walk-in
+R10045,19/05/2025,Dr. Amr Adel,,Downtown,Tea 100g,2,55,110.00,Partial,110.00,CRM+Manual | walk-in
+R10046,14-03-2025,Mostafa Samir,01217003454,Madinaty,Chips,3,22,66.00,completed,,dashboard | checked by cashier
+R10047,27/02/2025,Ahmed Ali,01048504300, Heliopolis ,Biscuits,1,27,27.00,COMPLETED,27.00,dashboard | walk-in
+,05/08/25,,01510209961,Madinaty,milk 1l,5,32,192.00,COMPLETED,160.00,CRM+Manual | checked by cashier
+R10049,18-06-2025,Sara Mohamed,01172360629, Madinaty ,Coffee 200g,2,110,220.00,Card,220.00,manual sheet
+R10050,26-Mar-2025,Mohamed Tarek,01235074182,Downtown,Shampoo,2,125,250.00,pending,250.00,dashboard | manual adjustment
+R10051,04/01/25,,01114179623,Maadi,Pasta 500g,5 pcs,24,120.00,Partial,60.00,Manual Excel | loyalty customer
+R10052,30-01-2025,Ahmed Ali,01269897763,Nasr City,Yogurt Cup,4,16,64.00,Cash,64.00,POS / manual fix
+R10053,29/06/2025,Khaled Youssef,01513527782,Heliopolis,chips,2,22,44.00,COMPLETED,44.00,crm | quick sale
+R10054,"Feb 02, 2025",Laila Mansour,01150818905,Madinaty,Eggs 12pc,2,72,144.00,paid,EGP 72.00,Manual Excel | walk-in
+R10055,2025/05/25,Mona Hassan,01186790955,Downtown,Bread,1,EGP 12,12.00,Cash,12.00,Dashboard | loyalty customer
+R10056,30-Mar-2025,Mr. Mostafa Samir,,Nasr City,Shampoo,2,125,250.00,completed,250.00,dashboard | promo applied
+R10057,11-Apr-2025,Amr Adel,01548352498,Maadi,Rice 1kg,2,48, 96.00 ,Cash,,POS / Excel | first-time buyer
+R10058,2025-03-28,Laila Mansour,01028392710,Heliopolis,Shampoo,0,125,250.00,Paid,250.00,crm | manual adjustment
+R10059,2025/03/20,Ahmed Ali,01088319168,Madinaty,Yogurt Cup,2,16,32.00,completed,32.00,dashboard | walk-in
+R10060,06/30/25,Nour Adel,01171694994,Madinaty,Rice 1kg,4,48,192.00,Partial,192.00,POS / Excel | checked by cashier
+R10061,12-03-2025,Yara Atef,01148983895,Downtown,Orange Juice,5,38,190.00,Card,142.50,POS | legacy import
+R10062,2025/01/26,Nour Adel,01148553376,Downtown,Chips,2 pcs,22,44.00,pending,33.00,crm | legacy import
+R10063,10/01/2025,Ahmed Ali,01546619573, Heliopolis ,Orange Juice,4,38,159.60,pending,159.60,manual_sheet | vip
+R10064,03/05/25, AHMED ALI ,01045105069,Heliopolis,Soap Bar,2,18,36.00,Card,36.00,crm | promo applied
+R10065,"May 21, 2025",Reem Hany,01580890196,Madinaty,Shampoo,5,125,625.00,paid,625.00,crm | vip
+R10066,"May 24, 2025",Eslam Fouad,01016 078694,Heliopolis,Coffee 200g,1,110,110.00,completed,99.00,Dashboard | checked by cashier
+R10067,2025/06/19,Laila Mansour,01110466177,Nasr City,Tea 100g,2,55, 121.00 ,COMPLETED,121.00,POS | legacy import
+R10068,22-06-2025,Mona Hassan,01028808678,Nasr City,Coffee 200g,1,110,110.00,completed,110.00,POS / Excel | legacy import
+R10069,01/13/25,Salma Nabil,01534679818,Maadi,shampoo,4,125,500.00,COMPLETED,500.00,dashboard / reconcile
+R10070,10-Mar-2025,Mostafa Samir,01154689713,Madinaty,Orange Juice,1,38,38.00,completed,38.00,CRM export | first-time buyer
+R10071,2025/05/01,Hassan Ibrahim,01112176998,Nasr City,Detergent,2,95,190.00,completed,190.00,CRM export | quick sale
+R10072,20-05-2025,Reem Hany / VIP,01099686372, Nasr City ,Biscuits,4,27,108.00,PAID,97.20,POS / manual fix
+R10073,28-06-2025,Dina Kamal,01245879718,Nasr City,Bread,1,12, 12.00 ,Cash,12.00,Dashboard | vip
+R10074,03/26/25,Hussein Gamal,,Downtown,Biscuits,4,27,108.00,pending,108.00,CRM export | quick sale
+R10075,06/26/25,,01553805532,Madinaty,Coffee 200g,2,110,231.00,paid,231.00,POS | new customer
+R10076,2025-01-28,Omar Said,01167 845091, Downtown ,Pasta 500g,3,24,72.00,COMPLETED,72.00,dashboard | quick sale
+R10077,2025/04/22,Mohamed Tarek,01589 699345,Maadi,Pasta 500g,3,24,72.00,completed,72.00,CRM+Manual | promo applied
+R10078,03/23/25,Yara Atef,01085678734,MAADI,Orange Juice,2,38, 76.00 ,Partial,76.00,manual_sheet | loyalty customer
+R10079,"Apr 25, 2025",Nadia Tamer,01058255231,Maadi, Orange Juice ,3,38,114.00,Partial,102.60,CRM - manual
+R10080,02/26/25,Eslam Fouad,01074796438,Heliopolis,Soap Bar,3,18,54.00,COMPLETED,54.00,pos | legacy import
+R10081,23-Jun-2025,Khaled Youssef,01164 364546,Nasr City,Chips,2,22,44.00,Partial,,Manual Excel | walk-in
+R10082,05/06/25,Amr Adel,01592861016,Heliopolis,Orange Juice,3,38,114.00,Card,114.00,Manual Excel | new customer
+R10083,23-05-2025,Khaled Youssef,01211286267,Maadi,Pasta 500g,2,24,48.00,COMPLETED,43.20,dashboard | walk-in
+R10084,"May 21, 2025",Amr Adel,01069239219,Downtown,Orange Juice,1,38,38.00,Card,38.00,POS / Excel | promo applied
+R10085,"Feb 12, 2025",,01290108882,Nasr City,Shampoo,2,125,250.00,Card,225.00,POS / Excel | walk-in
+R10086,23-Jun-2025,Mostafa Samir,01095044078,Maadi, Eggs 12pc ,4,72,288.00,Partial,288.00,POS / manual fix
+R10087,2025-03-24,Yara Atef,01094044392,HELIOPOLIS,Chips,4,22,88.00,Paid,66.00,dashboard | first-time buyer
+R10088,2025-04-12,Yara Atef,,Nasr City,Soap Bar,5,18,85.50,pending,85.50,manual_sheet | quick sale
+R10089,23/6/25,Nour Adel,01194299475,Downtown,Chips,4,22,96.80,Card,96.80,Manual Excel | online order
+R10090,,Aya Fathy,01176 422705, Madinaty ,Orange Juice,4,38,182.40,Paid,152.00,Dashboard | vip
+R10091,2025-04-12, AMR ADEL ,01147241089,Heliopolis,Tea 100g,5,55,275.00,Partial,275.00,pos | legacy import
+R10092,06/20/25,Khaled Youssef,01232409388,Downtown,Milk 1L,5,32,160.00,pending,160.00,POS / manual fix
+R10093,06/22/25,Sara Mohamed,01530144023,Nasr City,Coffee 200g,4,110,418.00,pending,418.00,Manual Excel | first-time buyer
+,"Mar 14, 2025",Yara Atef,01293579731,Heliopolis,Bread,4,12,48.00,Paid,48.00,manual sheet
+R10095,02-03-2025,Dina Kamal,01559995026,Maadi,milk 1l,2,32,64.00,completed,64.00,dashboard | vip
+R10096,2025-02-04,Hussein Gamal,01237868462,Downtown,Eggs 12pc,1,$72,72.00,Paid,72.00,dashboard | legacy import
+R10097,2025-05-21,Hana Mahmoud,01127544302,Downtown, Yogurt Cup ,1,16,16,Paid,16.00,POS / manual fix
+R10098,2025-04-20,Khaled Youssef,01196 876236,Heliopolis,Rice 1kg,2,48,96.00,COMPLETED,96.00,CRM export | manual adjustment
+R10099,2025-04-10,Mohamed Tarek,01581059199,Nasr City,Milk 1L,2 pcs,32,64.00,Cash,64.00,crm | loyalty customer
+R10100,"Apr 02, 2025",Mr. Hussein Gamal,,DOWNTOWN, Coffee 200g ,5,110,550.00,COMPLETED,550.00,POS / Excel | legacy import
+R10101,"Feb 06, 2025",Sara Mohamed,01055172462,Madinaty,Toothpaste,2,42,84.00,Partial,84.00,CRM export | checked by cashier
+R10102,2025/06/29,Hussein Gamal,01076596831,Maadi,toothpaste,4,42,184.80,completed,184.80,CRM - manual
+R10103,18-04-2025,Khaled Youssef,,MAADI, Yogurt Cup ,3,16,EGP 48.00,pending,48.00,dashboard | vip
+R10104,2025/04/22, KHALED YOUSSEF ,01249916439,Downtown,Bread,2,12,24.00,Cash,24.00,manual_sheet | vip
+R10105,09-Mar-2025,Omar Said (returning),01045338986,Madinaty,soap bar,2,18,36.00,PAID,36.00,dashboard | manual adjustment
+R10106,2/3/25,Reem Hany,01533203422,Heliopolis,Bread,3,12,36.00,COMPLETED,36,Manual Excel | promo applied
+R10107,2025-06-09,Hussein Gamal,01048398732,Madinaty,Shampoo,3,125,285.00,paid,356.25,dashboard / reconcile
+R10108,05/06/25,Sara Mohamed,01591198924,Nasr City, Eggs 12pc ,2,72,144.00,Card,144.00,pos | promo applied
+R10109,"Jan 09, 2025", ESLAM FOUAD ,01595283260,Downtown,Biscuits,2,27,54.00,pending,54.00,pos | new customer
+R10110,23-Jun-2025,Aya Fathy,01196888739,Heliopolis,Tea 100g,0,55,165.00,Paid,148.50,Manual Excel | loyalty customer
+R10111,24/5/25,Nadia Tamer,01247162866,Madinaty,Pasta 500g,2,24,48.00,Card,48.00,CRM export | new customer
+R10112,2025/05/27,Dr. Aya Fathy,01278090647,Heliopolis,Coffee 200g,5,110,550.00,pending,550.00,CRM export | walk-in
+R10113,29/04/2025,Sara Mohamed,01061226775,Maadi,Milk 1L,0,32,160.00,pending,80.00,POS / Excel | legacy import
+R10114,10-Feb-2025,Reem Hany,01510 626681,Downtown,Eggs 12pc,4,72,288.00,Partial,288.00,POS | quick sale
+R10115,05/14/25,Nadia Tamer,01132130289,Madinaty,Detergent,0,95,285.00,completed,213.75,Dashboard | first-time buyer
+R10116,05/21/25,,01598807116,Maadi,Coffee 200g,2,110,220.00,Paid,220.00,pos | new customer
+R10117,23/02/2025,Reem Hany,01078679929,Heliopolis,rice 1kg,1,48,54.72,pending,41.04,pos | vip
+R10118,02/13/25,Hassan Ibrahim,01234544318,Heliopolis,Biscuits,3,27,81.00,paid,81.00,pos | online order
+R10119,02-Apr-2025, NADIA TAMER ,01525158211,Downtown,Toothpaste,5,42,210.00,COMPLETED,210.00,manual sheet
+R10120,08-02-2025,Laila Mansour,01532200132,Madinaty,Milk 1L, 1 ,32,32.00,pending,32.00,pos | manual adjustment
+R10121,,Laila Mansour,,Downtown,Toothpaste,1,42,42.00,Cash,37.80,dashboard | checked by cashier
+R10008,07/05/2025,Nour Adel,,Maadi,Bread,2,12,24.00,Partial,,crm | vip
+R10123,"Jun 27, 2025",Hussein Gamal,01566192230,Nasr City,Coffee 200g,2,110,242.00,Card,242.00,CRM+Manual | promo applied
+R10124,22-06-2025,Nour Adel,01285467972,Nasr City,Chips,4,$22,EGP 88.00,paid,88.00,dashboard | loyalty customer
+R10125,2025/03/17,Dr. Aya Fathy,,Madinaty,Milk 1L,0,32,64.00,completed,64.00,POS / Excel | legacy import
+R10126,2025/05/31,Laila Mansour,,Madinaty,Rice 1kg, 5 ,48,240.00,COMPLETED,240.00,manual sheet
+R10127,02-Apr-2025,Omar Said,01522340723,Heliopolis,Chips,2,22,44,COMPLETED,44.00,crm | promo applied
+R10128,30-Jan-2025,Mostafa Samir,01049786693,Heliopolis,chips,5,22,110.00,pending,82.50,manual_sheet | checked by cashier
+R10129,19/01/2025,Nour Adel,01284904794,Downtown,Yogurt Cup,0,16,,completed,80.00,pos | loyalty customer
+R10130,08-04-2025,Mostafa Samir,01295100169,Downtown,Yogurt Cup,2,16.00,32.00,Partial,32.00,Manual Excel | legacy import
+R10131,12/05/2025,Nour Adel,01083 665549,Nasr City,Eggs 12pc,2,EGP 72,,paid,144.00,dashboard | new customer
+R10132,03/22/25,Dina Kamal,01228026223,Nasr City,Milk 1L,2,32,64.00,completed,64.00,crm | manual adjustment
+R10133,06/01/25,Aya Fathy,01539971710, Downtown ,Chips,2,22,44.00,COMPLETED,33.00,CRM+Manual | legacy import
+R10134,"Jan 11, 2025",Hana Mahmoud,, Maadi ,Rice 1kg,1,48,48.00,completed,48.00,dashboard | manual adjustment
+R10135,"Feb 27, 2025", AMR ADEL ,01169042204,Maadi, Detergent ,0,95,190.00,Paid,190.00,Manual Excel | promo applied
+R10136,"Jun 11, 2025", AMR ADEL ,01590444404, Downtown ,Biscuits,4,27,108.00,COMPLETED,108.00,CRM+Manual | new customer
+R10137,27/04/2025,Mr. Nadia Tamer,01530073763,Madinaty, Bread ,2,12, 24.00 ,Paid,24.00,POS / manual fix
+R10138,31-03-2025,Hussein Gamal,01048019408,Madinaty, Bread ,3,12,36.00,completed,,CRM+Manual | quick sale
+R10139,,Mostafa Samir,01544061458,Nasr City,Soap Bar,4,18,72.00,Card,72.00,CRM export | loyalty customer
+R10140,2025/02/07,Reem Hany,01563773642,Madinaty,Soap Bar,1,18,17.10,Paid,EGP 17.10,CRM+Manual | new customer
+R10141,2025/03/12,Mostafa Samir,01022101856,Heliopolis,Tea 100g, 3 ,$55,165.00,Paid,,POS / Excel | legacy import
+R10142,28-05-2025,Mohamed Tarek,01571836850,Maadi,Soap Bar,4,18,72.00,Card,72.00,CRM+Manual | first-time buyer
+R10143,22-Mar-2025,Salma Nabil,01141522559,Nasr City,Biscuits,4,27,108.00,PAID,97.20,manual_sheet | legacy import
+R10144,2025-03-12,Reem Hany,01574199033,Nasr City,Shampoo,0,125,500.00,COMPLETED,500.00,POS / Excel | first-time buyer
+R10145,04-04-2025,Khaled Youssef,01547531240,Maadi,Soap Bar,2,18,36.00,PAID,36.00,dashboard | walk-in
+R10146,05/05/2025,Yara Atef,01273960038,Heliopolis,Chips,4,22,83.60,Paid,83.60,pos | manual adjustment
+,25-Apr-2025,Omar Said,01519575640,Maadi,Orange Juice,2,38,76.00,Card,38.00,pos | walk-in
+R10148,21-01-2025,Aya Fathy,01580327779,Nasr City,Soap Bar,1,18,19,Paid,18.90,pos | vip
+R10149,"Jun 28, 2025",Laila Mansour,01256596140,Nasr City,orange juice,4,38,152.00,COMPLETED,76.00,dashboard | quick sale
+R10150,18-02-2025,Dina Kamal,01539607414,Madinaty,Soap Bar,3,18,54.00,Partial,54.00,CRM export | vip
+R10151,5/1/25,Mr. Nour Adel,01511101134,Downtown,Chips,1,22,22.00,PAID,22,manual_sheet | vip
+R10152,"Mar 05, 2025",Mostafa Samir,01173461570,Maadi,Rice 1kg,5,48,240.00,COMPLETED,,Dashboard | new customer
+R10153,2025-05-29,Reem Hany,01293903841,Madinaty,Eggs 12pc,2,72,144.00,pending,144,POS | first-time buyer
+R10154,06/28/25,Reem Hany,01119244458,Nasr City,Orange Juice,2,,76.00,PAID,76.00,POS / Excel | walk-in
+R10155,15/04/2025,,,Downtown,Bread,0,12,48.00,COMPLETED,EGP 48.00,pos | manual adjustment
+R10126,17-04-2025,Salma Nabil,01220460308,Downtown,Toothpaste,4,42,168,paid,168.00,manual_sheet | quick sale
+R10157,18-06-2025,Khaled Youssef,01265343779,Madinaty,Orange Juice,3,38,114.00,Card,102.60,Dashboard | checked by cashier
+R10158,6/1/25,Mohamed Tarek,01557735307,Madinaty,Chips,4 pcs,22,88.00,paid,88.00,Manual Excel | walk-in
+R10159,08-04-2025,Omar Said,01197 614538,Downtown,Biscuits,2,27,54.00,paid,40.50,CRM+Manual | first-time buyer
+R10160,"Mar 28, 2025",Omar Said,01527498659,Maadi,Orange Juice, 5 ,38,159.60,Partial,200,Manual Excel | manual adjustment
+R10161,2025/03/31,Nadia Tamer,01230936786,Maadi,Orange Juice,2,38,76.00,completed,38.00,pos | vip
+R10162,06/27/25,Ahmed Ali,01192 941828,Maadi,Orange Juice,5,38,190.00,Paid,190.00,CRM export | first-time buyer
+R10163,20-Feb-2025,Amr Adel,01531072888,Maadi, Chips ,5,22,104.50,Card,78.38,POS | checked by cashier
+R10164,"May 14, 2025",Nadia Tamer,01270286467,Nasr City,Soap Bar,2,18,36.00,Cash,36.00,POS / Excel | walk-in
+R10165,03/23/25,Nour Adel,01595476210,Downtown,Shampoo,2,125,250.00,Partial,250.00,CRM export | walk-in
+R10166,, REEM HANY ,01539870720,Nasr City,Eggs 12pc,2,72.00,144.00,Paid,144.00,manual_sheet | promo applied
+R10167,"Apr 26, 2025",Eslam Fouad,01579273350,Downtown,Biscuits,2,27,54.00,Paid,54.00,POS | promo applied
+R10168,11-Apr-2025,Dina Kamal,01043565477, Heliopolis ,Yogurt Cup,1,16,16.00,completed,16.00,crm | new customer
+R10169,02/08/25, KHALED YOUSSEF ,01125 777827,Nasr City,Eggs 12pc, 5 ,72,378.00,pending,378.00,POS / manual fix
+R10170,02/17/25,Nour Adel,01016580878,Downtown,Tea 100g,2,,104,Cash,104.50,pos | online order
+R10171,2025-02-01,,01074916146,Heliopolis,Chips,3,22,66.00,Paid,66.00,CRM+Manual | legacy import
+R10172,2025-02-23,Nadia Tamer,01147799296,MAADI,Soap Bar,1,$18,18.00,completed,18.00,CRM export | vip
+R10173,"Apr 28, 2025",Laila Mansour,01284514623,Heliopolis,Yogurt Cup, 3 ,16,48.00,Cash,48.00,POS / Excel | first-time buyer
+R10174,09/01/2025,Mohamed Tarek,01233489813, Maadi ,Bread,3,12,36.00,Cash,36.00,pos | checked by cashier
+R10175,01/10/25,Eslam Fouad,01516 192775,Maadi,Coffee 200g,4 pcs,110,462.00,paid,415.80,pos | quick sale
+R10176,2025-05-21,Hassan Ibrahim,01292310750, Heliopolis ,eggs 12pc,5,72,360.00,COMPLETED,360.00,crm | quick sale
+R10177,05/17/25,Mr. Omar Said,01573155598,Maadi,Orange Juice,2,38,EGP 83.60,pending,83.60,manual_sheet | promo applied
+R10178,"Jan 28, 2025",Hassan Ibrahim,01542021033,Madinaty,Tea 100g,1 pcs,55,55.00,PAID,55.00,CRM+Manual | promo applied
+R10179,03/20/25,Mostafa Samir,01596568973,Downtown,Orange Juice,1,38,,Partial,38.00,POS | vip
+R10180,30-03-2025,Omar Said,,Madinaty,Milk 1L, 4 ,,128.00,COMPLETED,128.00,crm | quick sale
+R10181,2025-04-09,Salma Nabil,01097025331, Maadi ,Eggs 12pc,2,72,144.00,COMPLETED,144.00,POS | walk-in
+R10182,2025-05-28,Reem Hany (returning),01086255745,Nasr City,Coffee 200g,4,EGP 110,440.00,Card,396.00,dashboard | checked by cashier
+R10183,29-Mar-2025, LAILA MANSOUR ,01249542951,Downtown,yogurt cup,3,16,48.00,Card,48.00,POS / manual fix
+R10184,2025/03/12,Mohamed Tarek / VIP,01559629263, Downtown ,Coffee 200g,1,110,110.00,COMPLETED,99.00,Manual Excel | legacy import
+R10185,2025/01/14,Mohamed Tarek,01160975999,Downtown,Milk 1L,2,32,64.00,pending,64.00,Dashboard | manual adjustment
+R10186,2025/04/11,Eslam Fouad,01152 046364, Nasr City ,Coffee 200g,5,EGP 110,,Card,550.00,POS / Excel | first-time buyer
+R10187,2025/06/15,Hussein Gamal,01095735668,Nasr City,Biscuits, 1 ,27,27,COMPLETED,27.00,dashboard | legacy import
+R10188,2025-02-25,Mr. Nadia Tamer,01269845276,Downtown,Biscuits,3,27,64.80,paid,81.00,POS | manual adjustment
+R10189,05/18/25,Salma Nabil,01220 798726,Heliopolis,Tea 100g,2,55.00,110.00,paid,110.00,dashboard | legacy import
+R10190,2025-03-20,Reem Hany,01215746469,Madinaty,Toothpaste,3,42,126.00,completed,63.00,Dashboard | vip
+R10191,01-06-2025,Omar Said,01167205134,Downtown,Bread,3 pcs,12,36.00,paid,36.00,crm | new customer
+R10192,11/06/2025,Nadia Tamer,01097477181,Maadi,Shampoo,0,125,262.50,Paid,262.50,CRM - manual
+R10193,25/1/25,Nadia Tamer,01036000523,Heliopolis,toothpaste,4,42,168.00,completed,168.00,manual sheet
+R10194,2025/01/30,Omar Said,01240878564,Nasr City,coffee 200g,0,110,330.00,completed,330.00,pos | checked by cashier
+R10195,27-Mar-2025,Nour Adel,01532978251,Downtown,Coffee 200g,4,110,418.00,pending,418.00,crm | promo applied
+R10196,2025-03-25,Dina Kamal,01073169926, Madinaty , Rice 1kg ,4,48,192.00,COMPLETED,,POS / Excel | first-time buyer
+R10197,2025/04/27, ESLAM FOUAD ,01595013818,NASR CITY,Toothpaste,5,42,210.00,Card,210.00,manual sheet
+R10198,11/01/2025,Salma Nabil,01242028739,Heliopolis,Eggs 12pc,5,72,360.00,completed,360.00,POS / Excel | vip
+R10199,17-May-2025,Yara Atef,01020760289,Maadi,Orange Juice,2,38,76.00,completed,38.00,Dashboard | walk-in
+R10200,01-Mar-2025,Amr Adel,01571472671,Heliopolis,Soap Bar,  4  ,18,72.00,Card,72.00,CRM export | loyalty customer
+R10201,02/09/25,Khaled Youssef,01234762712,Nasr City,Bread,0,12,12.00,pending,12.00,manual_sheet | quick sale
+R10202,03/17/25,Reem Hany,01074 287772,Heliopolis,Shampoo,4,125,500.00,pending,500.00,dashboard / reconcile
+R10203,06/05/2025, HASSAN IBRAHIM ,01559610894,Madinaty,Orange Juice,4,38,152.00,Partial,114.00,Dashboard | checked by cashier
+R10204,2025-03-19,Mr. Reem Hany,01064956876,Madinaty,Detergent,1,95,95.00,Partial,95.00,CRM export | online order
+R10205,2025/06/12,Reem Hany,01113817499,Downtown,Tea 100g,5,55,275.00,Paid,275.00,pos | legacy import
+R10206,02/11/25,Mona Hassan,01078969993,Heliopolis,Detergent,3,95,285,Paid,142.50,manual_sheet | new customer
+R10207,09-Feb-2025,Amr Adel,01520254278,Nasr City,Toothpaste,2,42,EGP 84.00,paid,84.00,pos | walk-in
+R10208,2025-06-26, SARA MOHAMED ,01072 959166,Downtown,Milk 1L,3,$32,96.00,paid,96.00,pos | legacy import
+R10209,05/26/25,Omar Said,01182091897,Downtown,Toothpaste,4,42,168.00,completed,168.00,POS | vip
+R10210,03-Apr-2025,Yara Atef (returning),01269586748,Madinaty,Coffee 200g,0,110,115.50,Cash,115.50,manual_sheet | quick sale
+R10211,13/02/2025,Omar Said,01576989425,Heliopolis,Rice 1kg,2,48.00,115.20,completed,48.00,CRM export | loyalty customer
+R10212,23-06-2025,Hassan Ibrahim,01537102821,Nasr City,pasta 500g,4,24, 96.00 ,COMPLETED,48.00,CRM export | new customer
+R10213,10-Apr-2025,Reem Hany,01178006116,Downtown, Orange Juice ,5,38,190.00,pending,190.00,POS | online order
+R10214,15-01-2025, HANA MAHMOUD ,01225364077,Nasr City,Rice 1kg,5,48,240.00,paid,240.00,crm | walk-in
+R10215,2025/06/20,Hassan Ibrahim,01081918425,Nasr City,Orange Juice,2,38,76.00,pending,76.00,manual_sheet | legacy import
+R10216,2025/06/19,Laila Mansour,01112496895,Heliopolis,Rice 1kg,3,48,144.00,pending,144.00,POS / Excel | walk-in
+R10217,,Dina Kamal,01144419684,Heliopolis,Toothpaste,1,$42,42.00,Cash,31.50,CRM+Manual | promo applied
+R10218,2025/03/22,Nadia Tamer,01063270351,Heliopolis,Toothpaste,1,42,42,Card,42.00,Manual Excel | promo applied
+R10219,"Feb 14, 2025",Aya Fathy,01225161415,Heliopolis,Yogurt Cup,0,16,48.00,pending,48.00,crm | quick sale
+R10220,03/21/25,Dr. Salma Nabil,01222113193,Downtown,Chips,2 pcs,22,44.00,Partial,44.00,manual_sheet | legacy import
+R10221,28-Jun-2025,Mohamed Tarek,01016 992585,Madinaty, Bread ,2 pcs,12,24.00,Card,24.00,Manual Excel | new customer
+R10222,14-Feb-2025,Hussein Gamal,01586556525,Heliopolis,Shampoo,2,125,250.00,COMPLETED,250.00,manual_sheet | first-time buyer
+R10223,2025/04/27,Reem Hany,01561281039,Downtown,Rice 1kg,0,48,240.00,Cash,180.00,Manual Excel | online order
+R10224,"Jun 25, 2025",Aya Fathy,01016994436,Maadi,Coffee 200g,3,110,330.00,paid,330.00,crm | promo applied
+R10225,2025-03-28,Eslam Fouad,01215927344,Nasr City,Bread,2,12,24.00,Cash,24.00,Manual Excel | manual adjustment
+R10226,2025/01/14, AYA FATHY ,01568576625,Nasr City,Milk 1L,2,32,64.00,COMPLETED,64.00,pos | manual adjustment
+R10227,05/15/25,Hussein Gamal,01048155583, Nasr City ,Soap Bar,1,18,18.00,PAID,18.00,pos | online order
+R10228,2025-02-24,Mona Hassan,01544247519,Heliopolis,Detergent,1,95.00,95.00,Partial,95.00,Manual Excel | promo applied
+R10229,2025-02-21,Reem Hany,01559 423803,Maadi,Biscuits,3,27,81.00,Partial,81.00,CRM+Manual | walk-in
+R10230,"Mar 05, 2025",Amr Adel,01565434526, Maadi , Pasta 500g ,4,24,91.20,paid,82.08,pos | manual adjustment
+R10231,17-Feb-2025, AYA FATHY ,01010784780,Nasr City,Bread,5,12,,paid,60.00,Dashboard | vip
+R10232,28-06-2025,Mr. Aya Fathy,01121555280,Downtown,Rice 1kg, 3  pcs,48,144.00,Partial,144.00,POS|cash
+R10233,07-May-2025, HUSSEIN GAMAL ,01541125867,Madinaty, Coffee 200g ,4,110,440.00,Partial,440.00,POS | quick sale
+R10234,04-06-2025,Eslam Fouad,01273394367,Nasr City,Biscuits,2,,54.00,Partial,54.00,Manual Excel | loyalty customer
+R10235,09-May-2025,Mona Hassan,01255677542,Downtown, Detergent , 3 ,95,270.75,completed,270.75,crm | first-time buyer
+R10236,2025/05/10,Mr. Sara Mohamed,01577900294,Nasr City,Tea 100g, 1 ,55,55.00,Cash,27.50,dashboard | vip
+R10237,2025-02-28,Nour Adel,01529539994,Maadi,soap bar,3,18,54.00,Card,48.60,POS | quick sale
+R10238,30-Mar-2025,Ahmed Ali,01183071525,Heliopolis,Biscuits, 4 ,27,108.00,Partial,108.00,CRM+Manual | loyalty customer
+R10239,2025/06/12,Khaled Youssef,01577816807,Downtown,Milk 1L,0,32,128.00,Cash,128.00,pos | first-time buyer
+R10240,2025-03-18,Yara Atef,01279316990,Madinaty,tea 100g,2 pcs,55,110.00,completed,110.00,CRM+Manual | promo applied
+R10241,19-Apr-2025,Eslam Fouad,01527365785,Maadi,Coffee 200g,3,110,330.00,COMPLETED,330.00,POS / Excel | quick sale
+R10242,"Jan 13, 2025",Yara Atef,01219068358,Heliopolis,Rice 1kg,2,48,96.00,paid,96.00,POS | online order
+R10243,12-04-2025,Hassan Ibrahim,01113329148,Madinaty,Milk 1L,0,32,192.00,paid,160.00,CRM+Manual | new customer
+,30-Jun-2025,Hussein Gamal,01055628196, Maadi ,bread,4,12,48,Paid,48.00,CRM - manual
+R10245,06/02/2025,Dina Kamal,01176 166580,Heliopolis,Pasta 500g,3,24,72.00,completed,36.00,POS / Excel | quick sale
+R10246,"Jun 12, 2025",Amr Adel,01515609238, Nasr City ,Shampoo,2,125,250.00,Partial,125.00,POS | manual adjustment
+R10247,2025/06/28,Sara Mohamed,01295251058,Nasr City,Coffee 200g,4,110,EGP 440.00,Card,,CRM export | manual adjustment
+R10248,16-06-2025,Omar Said,01261908845,MADINATY,Milk 1L,5,32,160.00,Partial,160.00,Manual Excel | first-time buyer
+R10249,30-06-2025,Mr. Nadia Tamer,01286383608,Nasr City,Milk 1L,0,32,,paid,64.00,POS / Excel | manual adjustment
+R10250,24-Jun-2025,Laila Mansour,01546780435,MAADI, Milk 1L ,3,32,96.00,Card,48.00,pos | new customer
+R10251,05-Mar-2025,Aya Fathy,01089528133,Nasr City,Detergent,2,95,,pending,209.00,POS|cash
+R10252,2025/02/02,Mona Hassan,01085062345,Maadi,Milk 1L,2,32,64.00,paid,,POS | legacy import
+R10253,19/02/2025,Hussein Gamal,01128478117,Nasr City,Tea 100g,4,55,220.00,pending,220.00,POS | first-time buyer
+R10254,01/14/25,Dr. Dina Kamal,01199638670,Heliopolis,Rice 1kg,2,$48,96.00,paid,96.00,dashboard | manual adjustment
+R10255,"Apr 07, 2025",Aya Fathy,01029112869,MAADI,eggs 12pc,0,72,72.00,COMPLETED,36.00,CRM export | manual adjustment
+R10256,"Jan 29, 2025",Hassan Ibrahim,01518774822,Nasr City,Pasta 500g,3,24,72.00,COMPLETED,64.80,pos | walk-in
+R10004,11/05/2025,,01596580039,Maadi,Rice 1kg,5,48,252.00,paid,EGP 252.00,POS / Excel | checked by cashier
+R10258,"Feb 10, 2025",Salma Nabil,01240893911,Heliopolis,Chips,1,22,22.00,pending,22.00,CRM+Manual | first-time buyer
+R10259,01/26/25,Sara Mohamed,01246838009,Downtown,detergent,1,95,95.00,Card,95.00,manual_sheet | loyalty customer
+R10260,2025/04/12,Hana Mahmoud,01555722553,Nasr City, Coffee 200g ,5,110,550.00,pending,550.00,pos | checked by cashier
+R10261,"Jun 26, 2025", LAILA MANSOUR ,01561179711,Heliopolis,Detergent,4,95,361.00,COMPLETED,180.50,dashboard / reconcile
+R10262,2025-01-15,Salma Nabil,01182001505,Madinaty,Milk 1L,2,32,64.00,COMPLETED,48.00,Dashboard | manual adjustment
+R10263,2025/06/04,Hana Mahmoud,01048642865,Madinaty,Detergent,4,95,380.00,Paid,380.00,dashboard | checked by cashier
+R10264,10-Jun-2025, LAILA MANSOUR ,01584198767,Heliopolis,Tea 100g,0,55,55.00,completed,55.00,pos | checked by cashier
+R10265,29/04/2025,Reem Hany,01547465789,Maadi,Bread, 1 ,,12.00,COMPLETED,,Manual Excel | walk-in
+R10266,18-06-2025,Sara Mohamed,01537 076822,MAADI,coffee 200g,2,EGP 110,220.00,Paid,220.00,manual_sheet | checked by cashier
+R10267,18/02/2025, NADIA TAMER ,01057 858864,Nasr City,Biscuits,0,27,108.00,completed,108.00,crm | walk-in
+R10268,03/06/25,,01195275696,Madinaty,Detergent,5,95,475.00,COMPLETED,475.00,crm | new customer
+R10269,2025/03/17,Aya Fathy,01228021013,Nasr City, Soap Bar ,2,18,36.00,pending,36.00,CRM export | checked by cashier
+R10270,2025-03-24,Mr. Khaled Youssef,01137409946,Maadi,Tea 100g,1,55,57.75,completed,57.75,Manual Excel | vip
+R10271,03-04-2025,Mostafa Samir,01174693042,Maadi,Eggs 12pc,3,72,172.80,Partial,216.00,POS | online order
+R10272,2025-04-17,Mostafa Samir,01061650472,Heliopolis,Soap Bar,3,18,54.00,Partial,27.00,CRM - manual
+R10273,2025-03-08,Nadia Tamer,01022389075,Maadi,Tea 100g,2,55,110.00,COMPLETED,110.00,Dashboard | online order
+R10274,2025-03-30, NOUR ADEL ,01175997979,Heliopolis,Coffee 200g,2,110,220.00,Cash,220.00,POS | vip
+R10275,2025-04-15,Eslam Fouad,01218625158, Madinaty , Bread ,5,EGP 12,60.00,Partial,60.00,crm | first-time buyer
+R10276,24/6/25, HASSAN IBRAHIM ,01057785434,Heliopolis,toothpaste,2,42,84.00,Partial,84.00,crm | vip
+R10277,24/03/2025,Ahmed Ali,01563709262,Heliopolis, Toothpaste ,1,42,42.00,COMPLETED,21.00,CRM+Manual | vip
+R10278,30/04/2025,Mr. Khaled Youssef,01024155900,Maadi,Bread,3,12.00,36,completed,36.00,Dashboard | first-time buyer
+R10279,2025-04-08,Laila Mansour,01055665951,Maadi, Shampoo ,2,125,,paid,250.00,CRM+Manual | promo applied
+R10280,28-Jan-2025,Mr. Mostafa Samir,01529787096,Downtown,Chips,3,22,66.00,completed,49.50,CRM+Manual | legacy import
+R10281,23-02-2025,Hana Mahmoud,01112894515,Downtown,Biscuits,2,27,54.00,Cash,54.00,POS / Excel | online order
+R10282,11-02-2025,Hussein Gamal,01197407684,Nasr City,Yogurt Cup,5,16.00,80.00,completed,40.00,POS | checked by cashier
+R10283,06-05-2025,Yara Atef,01597 283256,Madinaty,Eggs 12pc,5,72,360.00,paid,360.00,Dashboard | legacy import
+R10284,02-Feb-2025,Sara Mohamed,01062 854477,Heliopolis,Bread,5,12,60.00,COMPLETED,60,POS / Excel | quick sale
+R10285,2025/01/09,Omar Said,01043331239,Downtown,Chips,2,22,44.00,Partial,44.00,CRM export | first-time buyer
+R10286,2025-02-04,Nadia Tamer,01244987131,Madinaty,Rice 1kg,4,48,192.00,Partial,192.00,Dashboard | new customer
+R10287,2025/03/22,Dina Kamal,01518852915,Maadi, Milk 1L ,4,32,128.00,paid,128.00,crm | new customer
+R10288,27/05/2025,Yara Atef,01281361168,Madinaty,Pasta 500g,4,24,91.20,Partial,91.20,POS / Excel | loyalty customer
+R10289,04/01/25,Eslam Fouad,01051 025192, Madinaty , Pasta 500g ,2,24, 48.00 ,completed,48.00,Dashboard | checked by cashier
+R10290,2025/02/01,Mostafa Samir,01242779491,Downtown,Orange Juice,2 pcs,38,76.00,Partial,76.00,POS / Excel | new customer
+R10291,31/01/2025,Yara Atef,01296298460,HELIOPOLIS,yogurt cup,2,16,32.00,Partial,32.00,POS / Excel | first-time buyer
+R10292,02/01/25,Reem Hany,01267491018,Downtown,Eggs 12pc,5,72,360.00,completed,180.00,Manual Excel | quick sale
+R10293,"May 06, 2025",Laila Mansour,01527638581,MAADI, Shampoo ,5,125, 625.00 ,Partial,625.00,pos | vip
+R10294,2025/01/30,Mohamed Tarek,01135322723,NASR CITY,Tea 100g,3,EGP 55,165.00,paid,165.00,CRM+Manual | new customer
+R10295,14/01/2025, YARA ATEF  (returning),01216382911,Downtown,Pasta 500g,2,24,EGP 48.00,Partial,48.00,Manual Excel | first-time buyer
+R10296,04/06/2025,Salma Nabil,01015508152,Nasr City,Tea 100g,2 pcs,55,110.00,paid,110.00,CRM+Manual | new customer
+R10297,"Mar 30, 2025",Salma Nabil,01032 405653,Maadi,Tea 100g,5,55,288.75,Partial,288.75,CRM+Manual | legacy import
+R10298,02/10/25,Hussein Gamal,01149777260,Nasr City,Orange Juice,5,$38,209.00,Cash,209.00,CRM export | quick sale
+R10299,21-05-2025,Mohamed Tarek,,Nasr City,Soap Bar,4,18,72.00,Paid,64.80,CRM export | walk-in
+R10300,2025-04-12,Nour Adel,01534362335,Maadi,Rice 1kg,5,48,240.00,pending,240.00,dashboard | walk-in
+R10301,04/01/2025,Nadia Tamer,01121220004,DOWNTOWN,Soap Bar,3,$18,51.30,Paid,51.30,CRM export | walk-in
+R10302,10/06/2025,Laila Mansour,01040106747,Downtown,Milk 1L,1,32,EGP 33.60,Partial,33.60,CRM - manual
+R10303,04/06/2025,Nour Adel,01293853635,Nasr City,Soap Bar,4,18,72.00,Partial,72.00,CRM export | checked by cashier
+R10304,04/20/25,Mohamed Tarek,01276331270,Nasr City,Bread,2,12,24.00,Partial,24.00,Dashboard | manual adjustment
+,29/06/2025,Omar Said,01017996341,Nasr City,Detergent,1,,95.00,pending,EGP 71.25,dashboard / reconcile
+R10306,"Jun 02, 2025",Khaled Youssef,01530094705,Downtown,Eggs 12pc,2,72,144.00,Paid,EGP 144.00,dashboard / reconcile
+R10307,"May 27, 2025",Amr Adel,01526795114,Heliopolis,Coffee 200g,2,110,220.00,paid,220.00,manual_sheet | online order
+R10308,27-03-2025,Ahmed Ali,,Nasr City,Pasta 500g,0,24,48.00,Paid,48.00,POS / Excel | promo applied
+R10309,2025-02-03,Sara Mohamed,01574015552, Heliopolis ,Soap Bar,5,18,90.00,COMPLETED,90.00,CRM+Manual | first-time buyer
+R10310,28/03/2025,Yara Atef,01191924787, Heliopolis ,Orange Juice,3,38,125.40,Partial,125.40,CRM+Manual | vip
+R10311,"Apr 28, 2025",Mohamed Tarek,01515314034,Maadi,Pasta 500g,3,24,72.00,paid,72.00,crm | legacy import
+R10312,,Nour Adel,01572045979, Downtown ,Pasta 500g,3,24,72.00,paid,72.00,pos | checked by cashier
+R10313,01-05-2025, NOUR ADEL ,01267728351,Nasr City, Detergent ,  4  ,95.00,418.00,Paid,418.00,dashboard | promo applied
+R10314,2025/03/18,Khaled Youssef,01557606004,Nasr City,Detergent,3,95,285.00,PAID,285.00,CRM+Manual | online order
+R10315,2025-03-09,Amr Adel,01135186888,Downtown,Yogurt Cup,2,16,32.00,paid,32.00,Dashboard | quick sale
+R10316,"Apr 20, 2025",Amr Adel,01561212562,Heliopolis,Bread,2,12,24.00,COMPLETED,24.00,CRM export | new customer
+R10317,09/01/2025,Yara Atef,01526702129, Maadi ,Rice 1kg,2,48,115.20,paid,96.00,crm | manual adjustment
+,13/05/2025,Nadia Tamer,01516923083,Heliopolis,Detergent,2,95,190.00,Partial,95.00,CRM+Manual | online order
+R10319,"Jan 24, 2025",Ahmed Ali,01513394349,Maadi,Milk 1L,5,32,160.00,paid,,Manual Excel | manual adjustment
+R10320,02-Jun-2025,Sara Mohamed,,Downtown,eggs 12pc,2,72,144.00,paid,144.00,Excel import
+R10321,2025-03-29, SALMA NABIL ,01191350811, Maadi ,Orange Juice,4,38,152.00,Cash,152.00,POS | quick sale
+R10322,12-May-2025,Mr. Mostafa Samir,01088335942,Nasr City,Pasta 500g,2,24,48.00,Cash,43.20,CRM+Manual | legacy import
+R10323,2025-04-15,Yara Atef,01034 146337,Madinaty,Toothpaste,0,42,210.00,Partial,210.00,crm | online order
+R10324,13-03-2025,Nadia Tamer,01236595298,Downtown,Orange Juice,5,38,190.00,Card,190.00,manual_sheet | first-time buyer
+R10325,05/16/25,Mona Hassan,01256415774,Heliopolis,Tea 100g,1,55,52.25,Cash,,Dashboard | vip
+R10326,23-01-2025, AYA FATHY ,01024871807,Heliopolis,Toothpaste,4,42,168.00,Cash,84.00,POS | legacy import
+R10327,2025/06/19,Reem Hany,01057380159,Heliopolis,detergent,5 pcs,95,475.00,Cash,,POS / Excel | promo applied
+R10328,27-04-2025,Nour Adel,01163714593,Madinaty,Bread,2,12,24.00,pending,24,manual_sheet | vip
+R10329,2025/04/21,Amr Adel,01536029062,Heliopolis,Milk 1L,3,EGP 32,96.00,Partial,96.00,CRM export | promo applied
+R10112,2025/05/27,Aya Fathy,01278090647,Heliopolis,Coffee 200g,5,110,550.00,pending,550.00,CRM export | walk-in
+R10137,27/04/2025,Mr. Nadia Tamer,01530073763,Madinaty, Bread ,2,12, 24.00 ,Paid,24.00,POS / manual fix
+R10253,19/02/2025,Hussein Gamal,01128478117,Nasr City,Tea 100g,4,55,220.00,pending,220.00,POS | first-time buyer
+R10105,09-Mar-2025,Omar Said,01045338986,Madinaty,soap bar,2,18,36.00,PAID,36.00,dashboard | manual adjustment
+R10087,2025-03-24,Yara Atef,01094044392,HELIOPOLIS,Chips,4,22,88.00,Paid,66.00,dashboard | first-time buyer
+R10104,2025/04/22, KHALED YOUSSEF ,01249916439,Downtown,Bread,2,12,24.00,Cash,24.00,manual_sheet | vip
+R10083,23-05-2025,Khaled Youssef,01211286267,Maadi,Pasta 500g,2,24,48.00,COMPLETED,43.20,dashboard | walk-in
+R10155,15/04/2025,,,Downtown,Bread,0,12,48.00,COMPLETED,EGP 48.00,pos | manual adjustment
